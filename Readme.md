@@ -1,7 +1,7 @@
 # Личный проект «Дела в Порядке»
 
 * Студент: [Евгений Рехлецкий](https://up.htmlacademy.ru/php/13/user/1886043).
-* Наставник: `Неизвестно`.
+* Наставник: [Evgeny Savich](https://up.htmlacademy.ru/php/13/user/68926).
 
 ---
 
